@@ -6,7 +6,9 @@ Kullanılan Araçlar
 Power BI
 
 Analiz Edilen Tablolar ve Görselleştirmeler
+
 (Proje Screenshot) - [https://github.com/Esra3425/PowerBI_Project2/blob/main/Project2.png?raw=true]
+
 Card - Sum of Discounts
 
 Açıklama: Toplam indirim miktarını gösterir. Bu görselleştirme, satışlarda yapılan toplam indirimlerin özetini sunar.
