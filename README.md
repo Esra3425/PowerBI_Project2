@@ -30,7 +30,9 @@ Line Chart - Sum of Sale Price by Product
 Açıklama: Ürün başına toplam satış fiyatını zaman içinde gösterir. Ürün bazında satış fiyatlarını karşılaştırmak ve eğilimleri görmek için kullanılır.
 
 Pie Chart - Sum of Units Sold by Segment
+
 Açıklama: Satılan ürün birimlerinin segmentlere göre dağılımını gösterir. Farklı segmentlerdeki satışların oranlarını görsel olarak sunar.
 
 Filled Map - Country and Units Sold
+
 Açıklama: Ülkelere göre satılan birim sayısını harita üzerinde gösterir. Farklı ülkelerdeki satış performansını coğrafi olarak görselleştirir.
